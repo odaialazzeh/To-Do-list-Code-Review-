@@ -3,15 +3,45 @@
 
 # Project Name
 
- ### To Do list (Code Review)
+ ### To Do list
  
-In this project, My coding partner will  read and think a lot about the quality of my code and then give a code review about it.
+In this project, you will build a simple HTML list of To Do tasks."To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. You will build a simple website that allows for doing that, and you will do it using ES6 and Webpack!
 
 
 ## Built With
 
 - HTML & CSS
 - JavaScript
+
+## Go Live 
+
+<a href="https://odaialazzeh.github.io/To-Do-list/dist/index.html">Live Demo</a>
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+
+### Prerequisites
+- Download Visual Studio Code.
+- Download Git.
+
+### Install
+
+1. Clone the repo
+```sh
+   git clone https://github.com/odaialazzeh/To-Do-list.git
+```
+2. Install NPM packages
+```sh
+   npm install
+```
+
+### Run tests
+ ```sh
+    - Open it by live server in the VScode.
+    - Check for the linters
+ ```
 
 
 ## Authors
